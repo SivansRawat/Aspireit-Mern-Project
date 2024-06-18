@@ -49,7 +49,7 @@ MERN_Login_App_with_ResetEmail/
 ### Clone the repository
 
 bash
-git clone https://github.com/yourusername/MERN_Login_App_with_ResetEmail.git
+git clone https://github.com/SivansRawat/Aspireit-Mern-Project.git
 cd MERN_Login_App_with_ResetEmail
 
 
